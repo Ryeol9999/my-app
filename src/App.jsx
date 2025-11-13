@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      ryeol
+      인렬
     </>
   )
 }
